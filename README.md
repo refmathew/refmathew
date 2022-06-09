@@ -1,7 +1,7 @@
-### rmathewjf
+### refmathew
 
 Hi, I am <strong>Mathew</strong>
-I am currently on my third year studying BSCS.
+I am currently on my third year towards a bachelor's in Computer Science.
 
 I usually spend my whole day in front of my computer studying.
 Presently, I am studying <strong>Vue</strong> and working on my personal projects and portfolio (which I hope would help me land an internship on the company I've been eyeing).
