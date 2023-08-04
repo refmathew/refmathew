@@ -1,17 +1,6 @@
 ### refmathew
 
-Hi, I am <strong>Mathew</strong>
-I am currently on my third year towards a bachelor's in Computer Science.
-
-I usually spend my whole day in front of my computer studying.
-Presently, I am studying <strong>Vue</strong> and working on my personal projects and portfolio (which I hope would help me land an internship on the company I've been eyeing).
-Once I have the time, knowledge, and confidence, I'm going to work on or contribute to some F/OSS projects.
-
-### About me
-
- 🐧 I like using free and/or open-source software.
-
-🗄️ I like keeping things organized.
+Hi, I am <strong>Mathew</strong>, a Vue developer.
 
 | [![Mathew's GitHub stats](https://github-readme-stats.vercel.app/api?username=refmathew&show_icons=true&hide=stars,prs&hide_border=true&include_all_commits=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats) | [![Mathew's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=refmathew&layout=compact&hide_border=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats) |
 | ------------- | ------------- |
